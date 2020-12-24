@@ -15,7 +15,7 @@ function preload() {
 }
 
 
-var sc = 0.5;
+var sc = 0.4;
 
 var cursorW = 150 * sc;
 var cursorIdx = 0;
